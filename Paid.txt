@@ -1,2 +1,1 @@
-USEDTransacID1:adad:asjags
-:
+TransacID1:adad:asjags
